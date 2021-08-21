@@ -4,3 +4,5 @@
 </div>
 <h1>Estou aprendendo</h1>
 <a href="https://nodejs.org/en/"><img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="60" height="60"/></a>
+
+![Snake animation](https://github.com/gabrielmutsk/gabrielmutsk/blob/output/github-contribution-grid-snake.svg)
