@@ -10,4 +10,4 @@
 
 ![Snake animation](https://github.com/gabrielmutsk/gabrielmutsk/blob/output/github-contribution-grid-snake.svg)
 
- [Assista o Video] (https://youtu.be/0TmsCgg9rpo)
+
